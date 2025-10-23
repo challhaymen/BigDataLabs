@@ -1,0 +1,8 @@
+com\edu\ensias\hadoop\hdfslab\WordCount.class
+com\edu\ensias\hadoop\hdfslab\HadoopFileStatus1.class
+com\edu\ensias\hadoop\hdfslab\ReadHDFS.class
+com\edu\ensias\hadoop\hdfslab\WriteHDFS.class
+com\edu\ensias\hadoop\hdfslab\TokenizerMapper.class
+com\edu\ensias\hadoop\Main.class
+com\edu\ensias\hadoop\hdfslab\HadoopFileStatus.class
+com\edu\ensias\hadoop\hdfslab\IntSumReducer.class
