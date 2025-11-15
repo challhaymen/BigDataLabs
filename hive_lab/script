@@ -1,0 +1,11 @@
+Requête de Création : clients
+
+CREATE TABLE clients (
+    client_id INT,
+    nom STRING,
+    email STRING,
+    telephone STRING
+)
+ROW FORMAT DELIMITED
+FIELDS TERMINATED BY ','
+STORED AS TEXTFILE;
